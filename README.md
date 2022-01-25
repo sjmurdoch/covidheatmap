@@ -9,6 +9,8 @@ This avoids the distortion resulting from clipping and binning, allowing more fe
 
 Like the official dashboard, this uses [Plotly](https://plotly.com/) and so allows interactive scrolling and zooming.
 
+Thanks to Pouria Hadjibagheri for the [helpful discussion](https://twitter.com/sjmurdoch/status/1485618794022289421) which led to this code being produced.
+
 ## Run this code in a browser
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/sjmurdoch/covidheatmap/HEAD?labpath=covidheatmap.ipynb)

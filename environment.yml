@@ -1,0 +1,9 @@
+﻿name: nhscovid
+channels:
+  - defaults
+dependencies:
+  - python=3.9
+  - pandas=1.3.5
+  - numpy=1.21.2
+  - plotly=5.1.0
+prefix: C:\Users\sjmur\miniconda3\envs\nhscovid
